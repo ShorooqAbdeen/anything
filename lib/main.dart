@@ -6,7 +6,7 @@ class MainScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text(" مشان الله .. أمانة بكفي وازبط"),
+      child: Text(" مشان الله ... أمانة بكفي وازبط"),
     );
   }
 }
